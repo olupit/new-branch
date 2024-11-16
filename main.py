@@ -3,7 +3,7 @@ def greet_user(name):
     print(f"Hello, {name}!Welcome!")
     
 def calculate_sum(a, b): 
-    return a + b
+    return str(a + b)
 
 
 if __name__ == "__main__":
